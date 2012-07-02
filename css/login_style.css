@@ -1,0 +1,75 @@
+
+
+#header {
+ width: 100%;
+	margin: 0;
+	padding: 0;
+	height: 50px;
+	background: #f0f0f0;	
+	border-bottom: 2px solid #ff0000;
+}
+
+#header p{
+	margin:0;
+	padding:10px;
+	font-size:14pt;
+	color: #666666;		
+}
+
+#alert {
+	color:#ff0000;
+	font-size:7pt;	
+}
+
+#error {
+	width:100%;
+	background:yellow;
+	color:#ff0000;
+	text-align: center;
+	
+}
+
+#content {
+	width:500px;
+	margin-top: 15%;
+	margin-left: 35%;
+	border:0px solid red;
+	
+	
+}
+#content input[type=text], input[type=password]{
+	width: 145px;
+}
+
+#content input[type=submit] {
+	background: #f0f0f0;
+	color: #666666;
+	border:1px solid silver;
+	height: 20px;
+}
+
+#content input[type=submit]:HOVER {
+	background: white;
+}
+
+#login {
+	
+	padding: 20px 20px 20px 40px;
+	font-size:10pt;
+}
+
+#login label {
+	font-size:10pt;
+}
+
+
+fieldset {
+	
+	width: 300px;
+}
+
+legend {
+	font-family: Arial;
+	font-size:10pt;
+	color:#666666;
+}

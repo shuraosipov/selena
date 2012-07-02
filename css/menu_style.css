@@ -1,0 +1,66 @@
+#header {
+	width: 900px;
+	margin:25px 25px 0px 25px;
+	height: 50px;
+	background: #ffffff;	
+	border-bottom: 1px solid red;
+}
+
+#navcontainer {
+	width:400px;
+	float:left; 
+	text-align: left;
+	border:0px solid red;
+}
+
+
+
+.button {
+	width: 100px;
+	text-decoration: none;
+	color:#666666;
+	
+	
+	
+	
+	
+	
+}
+
+.button:HOVER {
+	text-decoration: none; 
+	color:#000;
+	
+}
+
+
+
+
+
+#name {
+	border:0px solid red;
+	width:250px;
+	text-align:right;
+	color:#666666;
+	float:right;
+}
+
+#quit {
+	width:100px;
+	text-align:right;
+	float:right;
+	
+	
+	
+		
+}
+
+
+#logo{
+	color:red;
+	text-transform: uppercase;
+	font-size: 15pt;
+	letter-spacing: 0.3em;
+	text-align: left;
+	
+}

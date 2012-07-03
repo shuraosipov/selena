@@ -61,7 +61,7 @@ echo <<<HEREDOC
 </tr>
 HEREDOC;
 }
-//я специанльо внес изменения  для github aaa
+
 ?>	
 
 </table>
